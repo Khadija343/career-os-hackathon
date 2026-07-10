@@ -9,7 +9,7 @@ import axios from "axios";
 // the multipart boundary axios/the browser would otherwise set.
 const api = axios.create({
   baseURL:
-    import.meta.env.VITE_API_URL || "http://localhost:5000/api/v1",
+    import.meta.env.VITE_API_URL,
 });
 
 // 🔐 Request Interceptor (Auto attach token)
