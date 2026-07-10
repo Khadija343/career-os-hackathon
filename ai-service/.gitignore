@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/

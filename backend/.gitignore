@@ -1,0 +1,12 @@
+node_modules
+
+.env
+
+logs
+
+uploads
+
+coverage
+
+dist
+.cursor/plans/
