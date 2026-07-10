@@ -238,7 +238,7 @@ answer + followUpSuggestions
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Khadija343/Career-os.git
+git clone https://github.com/Khadija343/career-os-hackathon.git
 cd career-os
 ```
 
